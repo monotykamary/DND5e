@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "55e1555fcb7f71c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbd53a9cb8b4515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42652c0fd61673a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Races/Dragonborn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdf73a57691f09dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eb83f69c8898bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4886f10f72aa880f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5df43211e9ba65d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e73fe455088df272",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6ffd09925bff0e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33506bcc9bde49ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3c6a8709b9003cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef31c16072c520c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "References/Races/Dragonborn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7b65b95ec4f510d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "References/Races/Dragonborn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b565bc910674a272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6be7791605872d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "References/Races/Dragonborn.md"
+              }
+            }
+          },
+          {
+            "id": "dbc31372867859fb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ef1bacb68a2b1b0",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3a80b4ae0b13772",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "rpg-manager:RPG Manager": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "42652c0fd61673a0",
+  "lastOpenFiles": [
+    "References/Races/# Racial Traits.md",
+    "Spells/Aid.md",
+    "Spells/## Spell Lists.md",
+    "Monsters (Alt)/Monsters A.md",
+    "Monsters (Alt)/Creatures S-U.md",
+    "Monsters (Alt)/Creatures M-O.md",
+    "Gameplay/Combat.md",
+    "Gameplay/Adventuring.md",
+    "Gameplay/Abilities.md",
+    "Characterizations/Multiclassing.md",
+    "Characterizations/Beyond 1st Level.md"
+  ]
+}
